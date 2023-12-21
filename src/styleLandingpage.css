@@ -1,12 +1,12 @@
 h1 {
-    color: blueviolet;
+    color: #e22b2b;
     font-size: 100px;
-    text-align: right;
+    text-align: left;
 }
 
 h2 {
     color: aqua;
     font-family: Calibri;
     font-size: 50px;
-    text-align: center;
+    text-align: left;
 }
