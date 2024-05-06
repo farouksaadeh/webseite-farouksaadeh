@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^farouksaadeh\.dev$ [NC]
+RewriteCond %{REQUEST_URI} !^/comingSoonPage\.html$
+RewriteRule ^(.*)$ /src/comingSoon/comingSoonPage.html [NC,L]

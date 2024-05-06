@@ -1,11 +1,4 @@
-/*
-Template Name: Shortly
-Version: 1.0.0
-Theme URL: https://angrystudio.com/themes/shortly-free-coming-soon-page-template/
-Author: AngryStudio
-License: AngryStudio License
-License URI: https://angrystudio.com/license/
-*/
+
 html {
 	box-sizing: border-box;
 }
@@ -187,7 +180,7 @@ opacity:1;
 }
 
 .logo-box img {
-	max-width: 400px;
+	max-width: 350px;
 }
 
 .cta-box {}
@@ -214,6 +207,7 @@ opacity:1;
 }
 
 .newsletter .form-field {
+	font-family: 'Open Sans', sans-serif;
 	background: rgba(99, 99, 99, 0.5);
 	border: 1px solid rgba(0, 0, 0, 0.17);
 	border-radius: 30px;
