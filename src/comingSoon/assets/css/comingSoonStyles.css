@@ -15,7 +15,7 @@ html {
 body {
 	background-color: #000;
 	margin: 0;
-	overflow: hidden;
+	overflow: auto;
 	z-index: 4;
 
 }
@@ -174,9 +174,10 @@ opacity:1;
 
 .content-wrap {
 	margin: 20px auto 40px auto;
-	max-width: 700px;
+	max-width: 1200px;
 	padding: 0 15px;
 	text-align: center;
+	max-height: 2000px;
 }
 
 .logo-box img {
@@ -217,12 +218,15 @@ opacity:1;
 	height: 52px;
 	padding: 0 20px 0 20px;
 	width: 100%;
+
 }
 
 .newsletter .form-field:focus {
 	border: 1px solid rgba(0, 0, 0, 0.17);
 	box-shadow: 0 0 0px 4px rgba(132, 115, 115, 0.28);
-	outline: none
+	outline: none;
+	z-index: 6;
+
 }
 
 .btn-main {
