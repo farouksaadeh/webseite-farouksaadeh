@@ -2,12 +2,12 @@
   "redirects": [
     {
       "source": "/index.html",
-      "destination": "/",
+      "destination": "/index.html",
       "permanent": true
     },
     {
       "source": "/",
-      "destination": "/",
+      "destination": "/index.html",
       "permanent": true
     }
   ]
