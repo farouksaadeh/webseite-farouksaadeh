@@ -1,3 +1,0 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} ^farouksaadeh\.dev$ [NC]
-RewriteRule ^(.*)$ https://www.farouksaadeh.dev/comingSoon/comingSoonPage.html [NC,L]
