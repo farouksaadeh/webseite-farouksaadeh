@@ -1,1 +1,14 @@
-/* TEST */
+{
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}
