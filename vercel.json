@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/comingSoon/comingSoonPage.html",
+      "permanent": true
+    }
+  ]
+}
