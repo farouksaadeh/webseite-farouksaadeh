@@ -2,12 +2,12 @@
   "redirects": [
     {
       "source": "/index.html",
-      "destination": "/index.html",
+      "destination": "/comingSoon/comingSoonPage.html",
       "permanent": true
     },
     {
       "source": "/",
-      "destination": "/index.html",
+      "destination": "/comingSoon/comingSoonPage.html",
       "permanent": true
     }
   ]
